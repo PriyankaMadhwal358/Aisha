@@ -1,5 +1,4 @@
-
-footer{
+footer {
     text-align: center;
     text-transform: uppercase;
     background-color: black;
@@ -7,33 +6,30 @@ footer{
     padding: 20px;
 }
 
-body{
+body {
     background-color: blanchedalmond;
 }
-h2{
+
+h2 {
     text-align: center;
-text-transform: uppercase;
-color: brown;
-font-size: x-large;
+    text-transform: uppercase;
+    color: brown;
 }
-header{
+
+header {
     text-align: center;
     text-transform: uppercase;
     background-color: black;
     color: white;
-    font-size: xx-large;
-padding: 20px;
-    
-
+    padding: 20px;
 }
-img{
-    height: 500px;
-    width: 500px;
+
+img {
+    width: 360px;
+    height: 640px;
     border-radius: 20px;
 }
-section{
+
+section {
     text-align: center;
 }
-
-
-
